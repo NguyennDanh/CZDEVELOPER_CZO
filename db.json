@@ -1,0 +1,12 @@
+{
+  "ThongTinKhachHang-CZDEVELOPER.CZGO": [
+    {
+      "Name": "Nguyễn Thành Danh","Email": "ntdvlogs0500@gmail.com","Password": "Admin@2023","Pricing_Order": "1Years","Pricing_DayCreate": "12.00 19-05-2023","Pricing_DayEnd": "12.00 19-05-2024","Status_Account": "Acctive"
+    }
+    ],
+     "ThongTinPhanMem-CZDEVELOPER.CZGO": [
+    {
+      "Version": "1.0.0","Price_License-3Months<VND>": 150000,"Price_License-5Months<VND>": 350000,"Price_License-1Year<VND>": 1200000,"FreeTrial_DayUse": 7,"LinkUpdate": "","Update-Comment": "Sửa chữa lổi mở chromeprofile. /Sửa lỗi đọc dữ liệu vầ truy xuất thông tin khách hàng"
+    }
+  ]
+}
